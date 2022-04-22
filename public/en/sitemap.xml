@@ -1,521 +1,459 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cygnustechsolutions.com/en/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/faq/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/faq/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/advice/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/advice/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/ai/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/ai/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/android/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/android/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/categories/artificial-intelligence/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/categories/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/categories/artificial-intelligence/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/categories/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/categories/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/company/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/company/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/categories/company-news/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/categories/company-news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-1/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-2/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-3/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-4/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-5/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-5/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/blog-post-6/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/blog-post-6/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/blog/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/blog/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/categories/legacy-support/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/categories/legacy-support/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/mechine/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/mechine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/mechine/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/news/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/retro/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/retro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/retro/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/tags/technology/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/tags/technology/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/tags/technology/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/about/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/author/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/author/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/author/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/contact/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/author/john-doe/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/author/john-doe/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/author/mark-dinn/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/author/mark-dinn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/nesos/</loc>
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/</loc>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/pricing/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/pricing/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/pricing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/arcos/</loc>
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/geos/</loc>
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/wehi/</loc>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-1/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-2/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-2/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-3/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-3/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-4/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-4/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-5/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-5/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-5/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-6/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://cygnustechsolutions.com/fr/project/rio-furniture-6/"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/project/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/rio-furniture-6/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/services/</loc>
   </url>
-  
 </urlset>

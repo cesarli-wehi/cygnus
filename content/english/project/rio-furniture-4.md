@@ -2,8 +2,8 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/work4.webp"
+bg_image: "images/featue-bg.webp"
 category: "UI/UX Design"
 information:
   - label : "Client"

@@ -30,7 +30,17 @@
 	&-item {
 		position: relative;
 		padding: 0;
-
+		
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		visibility: visible;
+		will-change: transform;
+		opacity: 1;
+		transition-duration: 250ms;
+		transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+		transition-property: transform, opacity;
+		
 		img {
 			width: 100%;
 			height: auto;
@@ -88,8 +98,6 @@
 		}
 	}
 }
-
-
 
 
 // Portfolio Single Page

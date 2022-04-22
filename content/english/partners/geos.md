@@ -1,51 +1,64 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "GEOS Enterprise"
+description: "Global Education and Occident Statecraft Enterprise"
 draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+image : "images/portfolio/geos.webp"
+bg_image: "images/portfolio/geos.webp"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Partner"
+    info : "Geos Enterprise"
+  - label : "Webiste"
+    info : "https://geosenterprise.com/"
+  - label : "Email"
+    info : "info@geosenterprise.com"
+  - label : "Phone"
+    info : "+39 0645422952"
+  - label : "Location"
+    info: "Rome"
 ---
 
-## Behance Website Redesign
+## Geos Enterprises
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+The **G**lobal **E**ducation and **O**ccident **S**tatecraft **Enterprise** is a dynamic and diversified company offering a broad range of services and international operations, headquartered in Rome – Italy, with branches located in 3 continents worldwide.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+GEOS Enterprise, founded by the initiative of an international group of distinguished academics and renowned professionals from civil and military institutions has grown to become a firm unlike any other, pursuing commercial, educational, scientific, security, social and cultural objectives.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+GEOS Enterprise is Founding Partner of Polo Meccatronica Valley and linked to global network of universities, research centers, think tanks and business companies constitute our unique nexus of renowned partners, which guarantees us the expertise and support, vital to our success.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+GEOS Enterprise core business activities are focused on:
+
+-   development, production and marketing of innovative systems, products and services with high technological value in the fields of Homeland security, e-government and strategic intelligence;
+-   world class education programs and training on statecraft, security and other strategic topics, aimed to develop the intellectual edge needed for a successful leadership
+-   research programs and innovative projects to attract funds, interests, infrastructures, expertise and new business opportunities
+-   strategic intelligence for the decision-makers
+-   international business strategies
+-   consulting services
+
+
+
+The prevalent business strategy of the company is aimed at research and development of IOT Security platforms and cybernetic systems for “Health and Care”, “Sustainability, Climate and Environment Protection”, “Energy”, “Mobility”, “Critical Infrastructures”, “Telecommunications”, “Urban and Rural Areas”, “Safety and Security”, “Aerospace”, “Smart Cities and Territories”, “Economy and Work 4.0”, empowering them into leading technologies for industries, institutions, infrastructures, firms, territories and the “Homeland Security Ecosystem”, in Italy and globally.
+
+Our consulting services encapsulate an extensive portfolio of information and expertise in strategy, economy, international political relations, communication, influence campaigns, legal affairs, cybernetics, defense, aerospace, transportation, energy, environment, sports and other socioeconomic affairs considered strategic for international safety and security.
+
+GEOS Enterprise can help you structure cohesive education and training programs to enhance your leadership, to generate value across your organization, to mitigate transnational threats and face the challenges and opportunities posed by the geopolitical complexity of the XXI century.
+
+### VISION
+
+GEOS Enterprise’s vision is to be recognized as an excellence provider of choice for Homeland security technology and executive education.
+
+### MISSION
+
+Our mission is to generate value for the stakeholders providing financial and technological support to the company’s core business activities.
+
+### CORE VALUES
+
+1.  Practice highest ethical standards
+2.  Respect and protect the environment
+3.  Meet the changing needs and desires of clients and partners
+4.  Focus on new creative and innovative business ideas
+
+### MOTTO
+
+The phrase “**_scientia potentia est_**” (or “**_scientia est potentia_**” or also “**_scientia potestas est_**“) is a Latin aphorism meaning “knowledge is power”. It is commonly attributed to [Sir Francis Bacon](https://en.wikipedia.org/wiki/Sir_Francis_Bacon), although there is no known occurrence of this precise phrase in Bacon’s English or Latin writings. However, the expression “_ipsa scientia potestas est_” (‘knowledge itself is power’) occurs in Bacon’s _Meditationes Sacrae_ (1597). The exact phrase “_scientia potentia est”_ was written for the first time in the 1668 version of the work [_Leviathan_](https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)) by [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes), who was secretary to Bacon as a young man.
+
+The related phrase “_sapientia est potentia”_ is often translated as “wisdom is power”.
