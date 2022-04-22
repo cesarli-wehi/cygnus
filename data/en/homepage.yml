@@ -6,8 +6,8 @@ banner:
   content : "I.T. services worth of the future"
   button:
     enable : true
-    label : "Discover Our Projects"
-    link : "project"
+    label : "Discover Nesos"
+    link : "https://nesos.app"
 
 ############################# About #################################
 about:

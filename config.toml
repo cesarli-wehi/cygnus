@@ -53,8 +53,8 @@ disableLanguages = []
   weight = 1
   
   [[menu.main]]
-  name = "Project"
-  URL = "project"
+  name = "Nesos"
+  URL = "nesos"
   weight = 2
   
   [[menu.main]]
@@ -63,19 +63,24 @@ disableLanguages = []
   weight = 3
 
   [[menu.main]]
+  name = "Partners"
+  URL = "partners"
   weight = 4
-  name = "Pages"
-  hasChildren = true
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
+  # [[menu.main]]
+  # weight = 4
+  # name = "Pages"
+  # hasChildren = true
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Pricing"
-    URL = "pricing"
+  #   [[menu.main]]
+  #   parent = "Pages"
+  #   name = "FAQ"
+  #   URL = "faq"
+
+  #   [[menu.main]]
+  #   parent = "Pages"
+  #   name = "Pricing"
+  #   URL = "pricing"
     
   [[menu.main]]
   name = "Contact"
@@ -90,8 +95,8 @@ disableLanguages = []
   weight = 1
   
   [[menu.footer]]
-  name = "Project"
-  URL = "project"
+  name = "Nesos"
+  URL = "nesos"
   weight = 2
   
   [[menu.footer]]
@@ -100,14 +105,14 @@ disableLanguages = []
   weight = 3
   
   [[menu.footer]]
-  name = "Pricing"
-  URL = "pricing"
+  name = "Partners"
+  URL = "partners"
   weight = 4
   
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 5
+  # [[menu.footer]]
+  # name = "FAQ"
+  # URL = "faq"
+  # weight = 5
   
   [[menu.footer]]
   name = "Contact"
@@ -123,9 +128,9 @@ home = "Home"
 description = "This is meta description"
 author = "Wehi Web Design Ltd."
 # Contact Information
-mobile = "07392969286"
-email = "info@cygnustech.com"
-phone = "07392969286"
+mobile = "+44 7701303569"
+email = "info@nesos.app"
+phone = "+44 7701303569"
 location = "Swansea, Wales,  UK"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -150,36 +155,36 @@ google_analitycs_id = "Your ID"
   # google map
   [params.gmap]
   enable = true
-  gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCuGrXQi44_ieIqUb8xHRwX8sr5JKWV_r4&libraries=places"
+  gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAyj6GoxuEFKAR36QWvMRJOWhirCSrWYac&libraries=places"
   map_latitude = "51.6214"
   map_longitude = "-3.9436"
   map_marker = "images/marker.png"
 
   
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.linkedin.com/company/nesos-app"
 
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 
 ################################# language ################################
@@ -193,14 +198,14 @@ link = "#"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2019 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
+  copyright = "Copyright &copy; 2022 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
 
   ################################ France Language ########################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
+  [Languages.it]
+  languageName = "It"
+  languageCode = "it-it"
+  contentDir = "content/italian"
   weight = 2
-  home = "Accueil"
+  home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2019 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
+  copyright = "Copyright &copy; 2022 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
