@@ -47,20 +47,20 @@ disableLanguages = []
 [menu]
   
   # main menu
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
+  # [[menu.main]]
+  # name = "About"
+  # URL = "about"
+  # weight = 1
   
   [[menu.main]]
   name = "Nesos"
   URL = "nesos"
   weight = 2
   
-  [[menu.main]]
-  name = "Services"
-  URL = "services"
-  weight = 3
+  # [[menu.main]]
+  # name = "Services"
+  # URL = "services"
+  # weight = 3
 
   [[menu.main]]
   name = "Partners"
@@ -89,20 +89,20 @@ disableLanguages = []
 
   
   # footer menu
-  [[menu.footer]]
-  name = "About"
-  URL = "about"
-  weight = 1
+  # [[menu.footer]]
+  # name = "About"
+  # URL = "about"
+  # weight = 1
   
   [[menu.footer]]
   name = "Nesos"
   URL = "nesos"
   weight = 2
   
-  [[menu.footer]]
-  name = "Services"
-  URL = "services"
-  weight = 3
+  # [[menu.footer]]
+  # name = "Services"
+  # URL = "services"
+  # weight = 3
   
   [[menu.footer]]
   name = "Partners"
@@ -125,7 +125,7 @@ disableLanguages = []
 logo = "images/logo-tran.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Cygnus Tech Solutions Ltd. Software worth of the future"
 author = "Wehi Web Design Ltd."
 # Contact Information
 mobile = "+44 7701303569"
@@ -156,8 +156,8 @@ google_analitycs_id = "Your ID"
   [params.gmap]
   enable = true
   gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAyj6GoxuEFKAR36QWvMRJOWhirCSrWYac&libraries=places"
-  map_latitude = "51.4105"
-  map_longitude = "0.8339"
+  map_latitude = "51.4112"
+  map_longitude = "-0.83565"
   map_marker = "images/marker.png"
 
   

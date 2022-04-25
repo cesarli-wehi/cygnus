@@ -1,0 +1,110 @@
+################################## About #####################################
+nesos:
+  enable : true
+  image : "images/company/nesosScreen.webp"
+  title : "Modern. Faster. Safer Everywhere Learning"
+  content : "Nesos is built on a modern technological stack backed by Microsoft and Google, offering the most modern UX without sacrificing performance or compromising security.
+          
+          
+          Manage every aspect of an e-learning experience in one single platform. Create, Schedule, Sell, Deliver and Analyse your Courses with ease in our ecosystem.
+          
+
+                  Take your business on the road! Nesos makes it a breeze to work from anywhere with its easy to use, fully responsive interface."
+
+  button:
+    enable : true
+    label : "Find out more"
+    link : "https://nesos.app"
+
+  funfacts:
+    # funfacts loop
+    - icon : "ion-social-html5-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Built in HTML5 for Ultimate Compatibility"
+      count : "HTML5"
+      
+    # funfacts loop
+    - icon : "ion-social-angular-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Modern signle page application for desktop like performance"
+      count : "Angular 11+"
+      
+    # funfacts loop
+    - icon : "ion-social-windows-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Performing, Secure API"
+      count : ".Net Core 5+"
+      
+    # funfacts loop
+    - icon : "ion-ios-analytics-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Secure Database for data protection"
+      count : "PostgreSQL"
+      
+    # funfacts loop
+    - icon : "ion-ios-cloud-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Completely cloud hosted and managed"
+      count : "Azure Cloud"
+      
+    # funfacts loop
+    - icon : "ion-ios-videocam-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Integrates Meetis for a real virtual classroom experience"
+      count : "Meetis"
+      
+################################ feature #####################################
+features:
+  enable : true
+  title : "The Nesos Ecosystem"
+  feature_item:
+    # feature item loop
+    - icon : "ion-ios-bookmarks-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nesos Course Management"
+      content : "Nesos will allow you to manage each and every aspect of your online courses, from the structure to the material, the instructors and moderators, the rooms and of course your students."
+      
+    # feature item loop
+    - icon : "ion-ios-pricetag-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nesos Storefront"
+      content : "Nesos offers a fully customizable storefront with custom categories and layout that will help you showcase your courses to the world."
+      
+    # feature item loop
+    - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nesos User Management"
+      content : "All of Nesos is accessible with one single account which allows you to manage your users all in one place, making it easier to track and support your clientele."
+      
+    # feature item loop
+    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Meetis"
+      content : "Meetis has been designed from the ground up for teachers and their students. With easy file sharing and annotations, classroom notes, student management and breakout rooms."
+      
+    # feature item loop
+    - icon : "ion-ios-email-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Emailing"
+      content : "An Integrated emailing system allows you to send secure and personalized emails directly from inside the system. Invoices and notifications all managed centrally without having to worry about any external platforms."
+      
+    # feature item loop
+    - icon : "ion-ios-locked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nesos Secured Payments"
+      content : "We have partnered with Stripe to provide a secure world class payment gateway to our customers."
+    
+
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : true
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : true
+  tabs:
+    # tab item loop
+    - name : "Single Page Application"
+      content : "Say goodbye to page loads while navigating, say hello to desktop like performance on the web. Make working more pleasurable for your staff and offer your customers a cutting edge modern user experience."
+      
+    # tab item loop
+    - name : "Cloud Born"
+      content : "Make your IT department redundant with Nesos. Nesos is hosted on the Cloud and managed completely remotely by us. No on premise servers required, no worrying about updates and upgrades or deployment. Let us worry about maintenance so you can focus on what matters: your business."
+      
+    # tab item loop
+    - name : "Uncompromising Security"
+      content : "SSL Secure access, database encryption, Stripe secure payments, role based access, server level firewall and Azure Front Door managed access are only a few of the many security features that make Nesos the best way to reduce your stress and sleep soundly"
+
+
+############################# call to action #################################
+cta:
+  enable : false
+  # call to action content comes from "data/*/homepage.yml"

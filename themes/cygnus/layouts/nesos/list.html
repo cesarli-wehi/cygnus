@@ -4,14 +4,15 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+{{ if $data.nesos.nesos.enable }}
+{{ with $data.nesos.nesos }}
 <section class="about section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
         <div class="about-img">
           <img class="img-responsive" src="{{ .image | relURL }}">
+          <h2 class="imgHeader">Nesos Lms</h2>
         </div>
       </div>
       <div class="col-md-6">
@@ -29,7 +30,7 @@
       <div class="col-md-2">
         <div class="counter-item">
           <i class="{{ .icon }}"></i>
-          <h4 class="count" data-count="{{ .count }}">0</h4>
+          <h4 class="" data-count="{{ .count }}">{{ .count }}</h4>
           <span>{{ .name }}</span>
         </div>
       </div>
@@ -40,8 +41,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.about.features.enable }}
-{{ with $data.about.features }}
+{{ if $data.nesos.features.enable }}
+{{ with $data.nesos.features }}
 <section class="about-feature bg-dark section dark-service">
   <div class="container">
     {{ with .title }}
@@ -72,7 +73,7 @@
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
-      {{ if $data.about.testimonial.enable }}
+      {{ if $data.nesos.testimonial.enable }}
       <div class="col-md-6">
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
@@ -91,8 +92,8 @@
       </div>
       {{ end }}
 
-      {{ if $data.about.mission_vision.enable }}
-      {{ with $data.about.mission_vision }}
+      {{ if $data.nesos.mission_vision.enable }}
+      {{ with $data.nesos.mission_vision }}
       <div class="col-md-6">
         <div class="tabCommon">
           <ul class="nav nav-tabs">
@@ -117,7 +118,7 @@
 </section>
 
 <!-- Call to action -->
-{{ if $data.about.cta.enable }}
+{{ if $data.nesos.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->

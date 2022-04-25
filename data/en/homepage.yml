@@ -13,14 +13,12 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
-  image : "images/wrapper-img.png"
+  description : "We're passionate software engineers with a desire to create technology that will be worth of the future."
+  content : "Weather it is software development or IT infrastructure designs, we have found our passion in making useful, solid, well engineered tech products that will survive the test of time. 
+  
+  
+  We pride ourselves in making systems at the bleeding edge of technology that will give our clients an advantage over their competition, especially if their competition is resting on their laurels of outdated software and infrastructures."
+  image : "images/logoHome.webp"
 
 
 ######################### Portfolio ###############################
@@ -29,18 +27,18 @@ portfolio:
   bg_image : "images/featue-bg.webp"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  We are expert developers and tech enthusiasts that find nothing more exciting than finding a great idea and pursue it until it is realised and successful. 
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  That is how Nesos LMS was born, we saw an opportunity to change the remote learning landscape and decided to pursue it.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Now we provide private educators a way to cut  costs, reach a new audience and make their business future-proof by removing geographical and physical obstacles between them and their audience. The goal is to give anyone who has something to teach the tools to reach anyone who has something to learn.
   "
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "Check Nesos Out"
+    link : "nesos"
 
 
 ############################# Service ############################
@@ -52,7 +50,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.webp"
+  bg_image : "images/bg1.webp"
   title : "We design cutting edge digital experiences."
   content : "Everything we do is built to last, for this reason we use cutting edge technologies and methodologies in all our projects. <br> "
   button:
@@ -64,11 +62,10 @@ cta:
 funfacts:
   enable : true
   title : "Fun Facts About Us"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description : "Our Journey so far in numbers"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
       count : "9999"
       

@@ -1,0 +1,8 @@
+{
+    "cSpell.language": "en-GB",
+    "cSpell.enableFiletypes": [
+        "!asciidoc",
+        "aspnetcorerazor",
+        "vue-html"
+    ]
+}

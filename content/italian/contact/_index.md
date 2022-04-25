@@ -1,6 +1,6 @@
 ---
-title: "Contact Us"
-description: "Any inquiries about projects or for any info on Nesos Lms"
+title: "Contattaci"
+description: "Per qualsiasi progetto o per info su Nesos LMS"
 draft: false
-bg_image: "images/featue-bg.webp"
+bg_image: "images/absBG.webp"
 ---
