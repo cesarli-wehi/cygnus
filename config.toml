@@ -122,7 +122,7 @@ disableLanguages = []
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-tran.png"
+logo = "images/logo-tran.webp"
 home = "Home"
 # Meta data
 description = "Cygnus Tech Solutions Ltd. Software worth of the future"
@@ -154,7 +154,7 @@ google_analitycs_id = "Your ID"
 
   # google map
   [params.gmap]
-  enable = true
+  enable = false
   gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAyj6GoxuEFKAR36QWvMRJOWhirCSrWYac&libraries=places"
   map_latitude = "51.4112"
   map_longitude = "-0.83565"
@@ -198,7 +198,7 @@ link = "https://www.linkedin.com/company/nesos-app"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2022 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
+  copyright = "Copyright &copy; 2023 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
 
   ################################ France Language ########################
   [Languages.it]
@@ -208,4 +208,4 @@ link = "https://www.linkedin.com/company/nesos-app"
   weight = 2
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2022 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"
+  copyright = "Copyright &copy; 2023 [Wehi Web Design Ltd](https://wehiweb.com) All Rights Reserved"

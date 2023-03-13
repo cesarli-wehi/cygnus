@@ -300,6 +300,18 @@
                 href="https://cygnustechsolutions.com/en/about/"
                 />
   </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/arcos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/partners/arcos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cygnustechsolutions.com/en/partners/arcos/"
+                />
+  </url><url>
     <loc>https://cygnustechsolutions.com/en/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -349,8 +361,28 @@
                 />
   </url><url>
     <loc>https://cygnustechsolutions.com/en/nesos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/nesos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cygnustechsolutions.com/en/nesos/"
+                />
   </url><url>
     <loc>https://cygnustechsolutions.com/en/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cygnustechsolutions.com/en/partners/"
+                />
   </url><url>
     <loc>https://cygnustechsolutions.com/en/pricing/</loc>
     <xhtml:link
@@ -375,12 +407,6 @@
                 hreflang="en"
                 href="https://cygnustechsolutions.com/en/project/"
                 />
-  </url><url>
-    <loc>https://cygnustechsolutions.com/en/partners/arcos/</loc>
-  </url><url>
-    <loc>https://cygnustechsolutions.com/en/partners/geos/</loc>
-  </url><url>
-    <loc>https://cygnustechsolutions.com/en/partners/wehi/</loc>
   </url><url>
     <loc>https://cygnustechsolutions.com/en/project/rio-furniture-1/</loc>
     <xhtml:link
@@ -455,5 +481,27 @@
                 />
   </url><url>
     <loc>https://cygnustechsolutions.com/en/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cygnustechsolutions.com/en/services/"
+                />
+  </url><url>
+    <loc>https://cygnustechsolutions.com/en/partners/wehi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cygnustechsolutions.com/it/partners/wehi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cygnustechsolutions.com/en/partners/wehi/"
+                />
   </url>
 </urlset>
