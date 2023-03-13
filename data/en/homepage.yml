@@ -77,12 +77,12 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Projects Completed"
-      count : "1077"
+      count : "9"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Nesos Users"
-      count : "9"
+      count : "1077"
 
   testimonial_slider:
     # testimonial item loop
